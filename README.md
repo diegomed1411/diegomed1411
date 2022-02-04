@@ -13,6 +13,7 @@
 ## <b>:rocket:Skills:</b><br><br>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[<img src='https://anthoncode.com/wp-content/uploads/2019/01/bootstrap-logo-png.png' alt='bootstrap' height='30'>]()
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,8 +27,8 @@
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [<img src='https://hakin9.org/wp-content/uploads/2019/08/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg' alt='sql alchemy' height='27'>]()
-[<img src='https://anthoncode.com/wp-content/uploads/2019/01/bootstrap-logo-png.png' alt='bootstrap' height='30'>]()
-[<img src='https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png' alt='bootstrap' height='30'>]()
+
+
 
 <!--
 **diegomed1411/diegomed1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
