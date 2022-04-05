@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Diego Medina I'm Full Stack Developer!
 
 - 🔭 I’m currently working on Web Development proyects and Accounting Software implementation based on Google Suite
- - 🌱 I’m currently learning JavaScript and Python 
+ - 🌱 JavaScript and Python Student
  - 👯 I’m looking to collaborate whith community
  - ⚡ Fun fact: I'm a travel addict
 
